@@ -13,7 +13,7 @@ var 🌧 = "Rainy cloud"
 
 print("") //Output:
 print("\"") //Output: "
-print("My name \t is Aljohra") //Output: My name     is Yousef
+print("My name \t is Aljohra") //Output: My name     is Aljohra
 print("How \nare \nyou?") //Output: How
                           //        are
                           //        you?
